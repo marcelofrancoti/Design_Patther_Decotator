@@ -1,0 +1,16 @@
+C:\Users\redbu\source\repos\Design_Patther_Decorator\Design_Patther_Decorator\bin\Debug\net5.0\Design_Patther_Decorator.exe
+C:\Users\redbu\source\repos\Design_Patther_Decorator\Design_Patther_Decorator\bin\Debug\net5.0\Design_Patther_Decorator.deps.json
+C:\Users\redbu\source\repos\Design_Patther_Decorator\Design_Patther_Decorator\bin\Debug\net5.0\Design_Patther_Decorator.runtimeconfig.json
+C:\Users\redbu\source\repos\Design_Patther_Decorator\Design_Patther_Decorator\bin\Debug\net5.0\Design_Patther_Decorator.runtimeconfig.dev.json
+C:\Users\redbu\source\repos\Design_Patther_Decorator\Design_Patther_Decorator\bin\Debug\net5.0\Design_Patther_Decorator.dll
+C:\Users\redbu\source\repos\Design_Patther_Decorator\Design_Patther_Decorator\bin\Debug\net5.0\ref\Design_Patther_Decorator.dll
+C:\Users\redbu\source\repos\Design_Patther_Decorator\Design_Patther_Decorator\bin\Debug\net5.0\Design_Patther_Decorator.pdb
+C:\Users\redbu\source\repos\Design_Patther_Decorator\Design_Patther_Decorator\obj\Debug\net5.0\Design_Patther_Decorator.csproj.AssemblyReference.cache
+C:\Users\redbu\source\repos\Design_Patther_Decorator\Design_Patther_Decorator\obj\Debug\net5.0\Design_Patther_Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redbu\source\repos\Design_Patther_Decorator\Design_Patther_Decorator\obj\Debug\net5.0\Design_Patther_Decorator.AssemblyInfoInputs.cache
+C:\Users\redbu\source\repos\Design_Patther_Decorator\Design_Patther_Decorator\obj\Debug\net5.0\Design_Patther_Decorator.AssemblyInfo.cs
+C:\Users\redbu\source\repos\Design_Patther_Decorator\Design_Patther_Decorator\obj\Debug\net5.0\Design_Patther_Decorator.csproj.CoreCompileInputs.cache
+C:\Users\redbu\source\repos\Design_Patther_Decorator\Design_Patther_Decorator\obj\Debug\net5.0\Design_Patther_Decorator.dll
+C:\Users\redbu\source\repos\Design_Patther_Decorator\Design_Patther_Decorator\obj\Debug\net5.0\ref\Design_Patther_Decorator.dll
+C:\Users\redbu\source\repos\Design_Patther_Decorator\Design_Patther_Decorator\obj\Debug\net5.0\Design_Patther_Decorator.pdb
+C:\Users\redbu\source\repos\Design_Patther_Decorator\Design_Patther_Decorator\obj\Debug\net5.0\Design_Patther_Decorator.genruntimeconfig.cache
